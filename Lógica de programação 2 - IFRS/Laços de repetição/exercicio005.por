@@ -25,7 +25,7 @@ programa
 
 		escreva("Você digitou ", valoresNegativos, " valores negativos. \n \n")
 
-		//opção com enquanto
+		//opção com para
 		inteiro valoresNegativos2, valor2
 		valor2 = 0
 		valoresNegativos2 = 0
@@ -45,7 +45,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 370; 
+ * @POSICAO-CURSOR = 506; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
