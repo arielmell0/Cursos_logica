@@ -12,11 +12,6 @@ programa
 		para(inteiro i = 0; i <= 9; i++){
 			leia(valores[i])
 		}
-
-		escreva("Os valores lidos foram: ")
-		para(inteiro i = 0; i <= 9; i++){
-			escreva(valores[i], "\n")
-		}
 		
 	}
 }
@@ -25,7 +20,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 280; 
+ * @POSICAO-CURSOR = 304; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
