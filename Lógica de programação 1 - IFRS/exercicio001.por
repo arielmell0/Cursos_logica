@@ -4,7 +4,7 @@ programa
 	funcao inicio()
 	{
 		//Exercício 1: Utilizando o Portugol Studio, escreva um programa que leia o nome de uma pessoa, 
-		//sua idade e escreva o nome da pessoa e a idade que ela terá daqui 5 anos.
+		//sua idade e escreva o nome da pessoa e a idade que ela terá daqui 5 anos
 
 		cadeia nome
 		inteiro idade
